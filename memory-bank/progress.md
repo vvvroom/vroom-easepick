@@ -40,7 +40,7 @@
 ## Current Status 🚀
 
 ### Version & Stability
-- **Current Version**: 1.2.1
+- **Current Version**: 1.2.2
 - **Release Status**: Production ready
 - **Security Status**: ✅ All vulnerabilities resolved (17 fixed)
 - **NPM Downloads**: Active user base
