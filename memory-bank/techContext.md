@@ -60,11 +60,12 @@ npm run test        # Run test suite
 - **@rollup/plugin-node-resolve**: ESM module resolution
 - **@rollup/plugin-typescript**: TypeScript compilation in Rollup
 - **@types/jest**: Type definitions for Jest
-- **eslint**: Code linting and style enforcement
-- **jest**: Testing framework
-- **rollup**: Module bundler
-- **sass**: SCSS compilation
-- **typescript**: Type checking and compilation
+- **eslint**: Code linting and style enforcement (updated to v8.x)
+- **jest**: Testing framework (updated with jsdom environment)
+- **jest-environment-jsdom**: DOM testing environment for Jest
+- **rollup**: Module bundler (security updates applied)
+- **sass**: SCSS compilation (deprecation warnings for @import syntax)
+- **typescript**: Type checking and compilation (updated within 4.6.x range)
 
 ### Runtime Dependencies
 - **None**: Zero runtime dependencies for maximum compatibility
